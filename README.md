@@ -112,8 +112,8 @@ English Version: [check here](/README-EN.md)
 ![公众号](https://github.com/ConsensusDev/Awesome-Cocos-BCX/blob/master/files/OfficialAccountsQR.jpg)
 
 # Others
-## Article
-## Video
+* [中文视频介绍](https://v.qq.com/x/page/k0845061ekk.html)
+* [英文视频介绍](https://v.qq.com/x/page/q08458nyqi3.html)
 
 ## 贡献<!-- omit in toc --> 
 欢迎大家提供其他跟Cocos-BCX相关的资源
