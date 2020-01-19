@@ -13,8 +13,6 @@ English Version: [check here](/README-EN.md)
 - [游戏](#游戏)
 - [社区](#社区)
 - [其他](#其他)
-  - [文章](#article)
-  - [视频](#video)
 
 
 # 基本信息
@@ -60,6 +58,9 @@ English Version: [check here](/README-EN.md)
 * [合约编程入门](https://cn-dev.cocosbcx.io/docs/hello_world) - 基于Lua的智能合约入门
 * [Dice示例讲解](https://cn-dev.cocosbcx.io/docs/81-%E6%8A%BD%E5%A5%96%E7%A4%BA%E4%BE%8B) - 讲解Dice项目的实现
 * [合约开发实践](https://github.com/Cocos-BCX/smart-contract-practice) - Lua合约安全指南和技巧
+* [主网](https://github.com/Cocos-BCX/cocos-mainnet) - 主网开源地址
+* [JSSDK-Demo](https://github.com/Cocos-BCX/JSSDK-Demo) - JS-SDK的示例程序
+* [开发助手](http://cocos-terminal.com/#/sdk-debug) - 在线API测试工具
 
 ## IDE
 * [CocosTerminal](http://cocos-terminal.com/) - 集成工具，包含浏览器，合约开发，交易，钱包管理等各项功能
@@ -74,15 +75,10 @@ English Version: [check here](/README-EN.md)
 * [Lua5.3手册]( https://www.lua.org/manual/5.3/) - lua5.3参考手册
 
 
-
 ## 示例
 * [dice](https://github.com/Cocos-BCX/cocos-dice-sample) - 一个简单dice示例
 * [打飞机](https://github.com/Cocos-BCX/cocos-shooting-game) - 打飞机源码
 
-## 其他
-* [主网](https://github.com/Cocos-BCX/cocos-mainnet) - 主网开源地址
-* [JSSDK-Demo](https://github.com/Cocos-BCX/JSSDK-Demo) - JS-SDK的示例程序
-* [开发助手](http://cocos-terminal.com/#/sdk-debug) - 在线API测试工具
 
 # 1808
 * [网站](http://cocos1808.org/) - 1808网站
@@ -92,7 +88,6 @@ English Version: [check here](/README-EN.md)
 * [IMCOCOS](https://imcocos.com/) - 专注于Cocos-BCX的咨询门户
 * [Bounty](https://bounty.cocosbcx.io/) - Cocos-BCX Bounty计划
 * [生态合伙人](https://www.cocosbcx.io/buildersandangels) - 全球Cocos-BCX项目的生态合伙人
-* [最新生态图]()
 
 ## 游戏
 * [加密骑士团](http://ckt.cocosbcx.net/) - 全球首款支持Staking模式的放置游戏，Staking模式产生英雄资产，自由交易
